@@ -25,12 +25,12 @@ jobs:
           extended: true
 
       - name: Build website
-        run: hugo --minify
+        run: hugo --minify -b "https://PhanManhTan.github.io/fcaj-workshop/"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          # github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
           publish_dir: ./public
-          publish_branch: main # <- đảm bảo đúng tên nhánh bạn dùng để deploy
-          force_orphan: true # <- đảm bảo xóa lịch sử cũ ở nhánh main (giảm lỗi)
+          publish_branch: gh-pages 
+          force_orphan: true 
