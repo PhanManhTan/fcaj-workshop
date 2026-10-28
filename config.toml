@@ -1,4 +1,4 @@
-baseURL = "https://PhanManhTan.github.io/fcaj-workshop/"
+baseURL = "https://phanmanhtan.github.io/fcaj-workshop/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
@@ -18,6 +18,7 @@ home = [ "HTML", "RSS", "JSON"]
   description = ""
   author = "manhtan06120@gmail.com"
   showVisitedLinks = true
+  ordersectionsby = "weight"
   disableBreadcrumb = false
   disableNextPrev = false
   
