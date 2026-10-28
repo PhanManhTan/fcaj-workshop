@@ -1,31 +1,39 @@
 ---
 title: "Event 1"
-date: 2024-01-01
+date: 2026-09-26
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
 ---
-
+<!-- 
 {{% notice warning %}}
 ⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+{{% /notice %}} -->
 
-# Bài thu hoạch “GenAI-powered App-DB Modernization workshop”
+# Bài thu hoạch “KICKOFF FCAJ BUILDRATHON 2026 x The Thinking Behind Building The Bot by CMC Global”
 
 ### Mục Đích Của Sự Kiện
 
-- Chia sẻ best practices trong thiết kế ứng dụng hiện đại
+- Kichoff AWS First Cloud AI Journey Buildrathon 2026
+- 
 - Giới thiệu phương pháp DDD và event-driven architecture
 - Hướng dẫn lựa chọn compute services phù hợp
 - Giới thiệu công cụ AI hỗ trợ development lifecycle
 
 ### Danh Sách Diễn Giả
 
-- **Jignesh Shah** - Director, Open Source Databases
-- **Erica Liu** - Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** - Assc. Specialist SA, Serverless Amazon Web Services
+- **Nguyen Gia Hung** - Head of Solution Architecture
+- **Lu Hoan Thien** - Program Manager, AWS First Cloud AI Journey
+- **Bui Nhat Truong** - Tech Lead, CMC Global  
 
 ### Nội Dung Nổi Bật
+
+
+
+#### Overall cloud
+#### Fresher cloud CMC
+#### Agent 
+#### Q&A
 
 #### Đưa ra các ảnh hưởng tiêu cực của kiến trúc ứng dụng cũ
 

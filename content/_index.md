@@ -1,6 +1,6 @@
 ---
 title: "Internship Report"
-date: 2024-01-01
+date: 2026-12-19
 weight: 1
 chapter: false
 ---
@@ -21,15 +21,13 @@ chapter: false
 
 &emsp; **University:** University of Information Technology - Vietnam National University Ho Chi Minh City
 
-&emsp; **Major:** Information Technology
-
-&emsp; **Class:** AWS082025
+&emsp; **Major:** Computer network and Data communication
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Internship Duration:** From 26/09/2026 to ```__/__/__```
+&emsp; **Internship Duration:** From 26/09/2026 to 26/12/2026
 
 ![Your profile picture](/image/avatar.png)
 
