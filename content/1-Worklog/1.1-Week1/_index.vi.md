@@ -1,59 +1,32 @@
 ---
 title: "Worklog Tuần 1"
-date: 2024-01-01
+date: 2026-09-26
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 
 ### Mục tiêu tuần 1:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Làm quen với chương trình FCAJ và môi trường học tập.
+* Nắm kiến thức AWS cơ bản thông qua các bài thực hành đầu tiên.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| :------ | :------------ | :--------------- | :----------------- | :----------------- |
+| 7 | Tham dự buổi Kickoff FCAJ Buildrathon 2026 x CMC Global và làm quen với các thành viên. | 26/09/2026 | 26/09/2026 | |
+| 2 | Tìm hiểu lộ trình, hình thức học tập và yêu cầu của chương trình FCAJ. | 28/09/2026 | 28/09/2026 | |
+| 3 | Tìm hiểu tổng quan về AWS và các nhóm dịch vụ chính. | 29/09/2026 | 29/09/2026 | <https://cloudjourney.awsfcaj.com/vi/1-explore/> |
+| 4 | Thực hành tạo và thiết lập tài khoản AWS. | 30/09/2026 | 30/09/2026 | <https://cloudjourney.awsfcaj.com/vi/1-explore/> |
+| 5 | Thiết lập AWS Budgets để theo dõi chi phí. | 01/10/2026 | 01/10/2026 | <https://000007.awsfcaj.com/vi/> |
+| 6 | Tìm hiểu và thực hành quản lý quyền truy cập với AWS IAM. | 02/10/2026 | 02/10/2026 | <https://000002.awsfcaj.com/vi/> |
 
 
 ### Kết quả đạt được tuần 1:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* Hiểu lộ trình của chương trình FCAJ và các nhóm dịch vụ AWS chính.
+* Biết cách tạo tài khoản, theo dõi chi phí và quản lý quyền truy cập trên AWS.
 
 
